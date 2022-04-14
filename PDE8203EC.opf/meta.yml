@@ -1,0 +1,33 @@
+id: PDE8203EC
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6291
+  instance_id: http://purl.bdrc.io/resource/IE1KG6291
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྗེ་བཙུན་མར་པའི་རྣམ་ཐར་གྲུབ་པའི་ངོ་མཚར་བརྗོད་པ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བའི་རང་རྣམ་འཁྲུལ་པའི་བཞིན་རས་འཆར་བའི་མེ་ལོང་།
+  alt_title:
+    en-x-mixed:
+    - Rje btsun Mar-paʼi rnam thar grub pai no mtshar brjod pa.Dpaʼ-bo Gtsug-lag-phreṅ-baʼi
+      rnam rnam ʼkhrul paʼi bzin ras char bai me lon. Dpaʼ-bo Gtsug-lag-phreṅ-baʼi
+      gsuṅ ʼbum dkar chag /Dpaʼ-bo Gtsug-lag-phreṅ-ba.
+  author: http://purl.bdrc.io/resource/P319
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    06cb75063a654d23893ddcabb69819ce:
+      title: པོད ༡་རྗེ་བཙུན་མར་པའི་རྣམ་ཐར་གྲུབ་པའི་ངོ་མཚར་བརྗོད་པ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བའི་རང་རྣམ་འཁྲུལ་པའི་བཞིན་རས་འཆར་བའི་མེ་ལོང་།
+      volume_number: 1
+      base_file: UT1KG6291_I1KG6323_0000.txt
+      reference: http://purl.bdrc.io/resource/VL4C7161BC12829D4A
+      image_group: I1KG6323
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6291
+  - http://purl.bdrc.io/resource/W1KG6291
+  ocr_software: Namsel
+created_at: '2021-12-22T10:59:21.427466'
+last_modified_at: '2021-12-22T10:59:21.427473'
